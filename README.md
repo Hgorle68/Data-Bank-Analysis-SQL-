@@ -12,4 +12,5 @@ Customers of Data Bank receive cloud data storage allotments that are directly r
 This case study focuses on metrics calculations, business growth, and smart data analysis to assist the company more accurately estimate and plan for the future.
 
 
-
+# DATA SCHEMA:-
+![10](https://github.com/Hgorle68/Data-Bank-Analysis-SQL-/assets/153175788/b15ce647-4677-48ab-8d67-e154b5326625)
