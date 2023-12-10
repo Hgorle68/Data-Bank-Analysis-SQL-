@@ -140,6 +140,6 @@ WHERE deposit_count>1
        OR withdrawal_count = 1)
 GROUP BY txn_month;
 
-# <img src="https://t.bkit.co/w_6575dcdd6d0e6.gif" />
+
 
 
